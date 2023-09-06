@@ -19,5 +19,5 @@ describe('make appointment', () => {
       cy.get('#txt-password').type('ThisIsAPassword')
       cy.get('#btn-login').click()
       cy.get('body').contains('Login failed! Please ensure the username and password are valid.')
-    })
+    }) 
 })
