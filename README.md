@@ -2,19 +2,19 @@
 
 Cara Install Cypress
 
-# Cek node dan npm version
-node --version
+Cek node dan npm version<br>
+node --version<br>
 npm --version
 
-# Buat sebuah folder bebas, kemudian install Cypress
-cd /your/project/path
+Buat sebuah folder bebas, kemudian install Cypress<br>
+cd /your/project/path<br>
 npm install cypress --save-dev
 
-# How To Run
+How To Run<br>
 npx cypress open
 
-Maka akan otomatis terbuka halaman Welcome to Cypress!
-Klik box E2E Testing
-Kemudian akan terbuka Configuration files, klik Continue
-Pada halaman E2E Testing, Pilih Browser yang akan digunakan untuk melakukan testing
+Maka akan otomatis terbuka halaman Welcome to Cypress!<br>
+Klik box E2E Testing<br>
+Kemudian akan terbuka Configuration files, klik Continue<br>
+Pada halaman E2E Testing, Pilih Browser yang akan digunakan untuk melakukan testing<br>
 Pada halaman Specs, Klik box Create New Specs
