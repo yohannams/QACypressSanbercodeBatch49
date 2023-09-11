@@ -18,3 +18,6 @@ Klik box E2E Testing<br>
 Kemudian akan terbuka Configuration files, klik Continue<br>
 Pada halaman E2E Testing, Pilih Browser yang akan digunakan untuk melakukan testing<br>
 Pada halaman Specs, Klik box Create New Specs
+
+# Website Testing
+https://katalon-demo-cura.herokuapp.com/
